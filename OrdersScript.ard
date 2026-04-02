@@ -5,7 +5,7 @@
               SchemaVersion="3.0"
               Type="ServiceLayerScript" OnDemand="" OnPremise=""
               ExtName="OrderAutoFillExt"
-              ExtVersion="1.00" Contdata="" Partner="mycompany" DBType="MSSQL"
+              ExtVersion="4.00" Contdata="" Partner="mycompany" DBType="MSSQL"
               ClientType="S">
     <ServiceLayerScripts>
         <Script Name="CreateOrder" FileName="OrdersScript.js"></Script>
